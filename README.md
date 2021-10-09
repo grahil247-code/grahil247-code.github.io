@@ -1,9 +1,9 @@
 
 <h1>Portfolio</h1>
 <p>
-Manchester Metropolitan University
-2016 - 2019 BSc (Hons) Computer Science
-    Year One:
+Manchester Metropolitan University<br>
+2016 - 2019 BSc (Hons) Computer Science<br>
+    Year One:<br>
     <ul>
         <li>Computer System Fundermentals</li>
             <li>Information Systems</li>
