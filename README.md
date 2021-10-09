@@ -10,16 +10,20 @@ Manchester Metropolitan University<br>
             <li>Introduction to Web Design and Development</li>
             <li>Introduction to Programming (Java)</li>
    </ul>
-   Year Two:
-            Computer Networks and Operating Systems
-            Professional Development
-            Advanced Programming (Java)
-            Algorithms and Data Structures
-  Year Three:
-            Programming languages - Principles and Design
-            Artificial Inteligence
-            Information and Network Security
-            Project
+  <br> Year Two:<br>
+  <ul>
+            <li>Computer Networks and Operating Systems</li>
+            <li>Professional Development</li>
+            <li>Advanced Programming (Java)</li>
+            <li>Algorithms and Data Structures</li>
+   </ul><br>
+  Year Three:<br>
+  <ul>
+            <li>Programming languages - Principles and Design</li>
+            <li>Artificial Inteligence</li>
+            <li>Information and Network Security</li>
+            <li>Project</li>
+    </ul>
 </p>            
 <p>
 Manchester Metropolitan University<br>
