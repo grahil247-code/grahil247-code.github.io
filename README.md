@@ -2,7 +2,7 @@
 <h1>Portfolio</h1>
 <p>
 Manchester Metropolitan University<br>
-2016 - 2019 BSc (Hons) Computer Science<br>
+<strong>2016 - 2019 BSc (Hons) Computer Science</strong><br>
     Year One:<br>
     <ul>
         <li>Computer System Fundermentals</li>
@@ -21,11 +21,15 @@ Manchester Metropolitan University<br>
             Information and Network Security
             Project
 </p>            
-Manchester Metropolitan University
-2019 - 2010 MSc Advanced Computer Science
-  Year One:
-           High Performance Computing and Big Data
-           Intoduction to Data Science
-           Advanced Computer Networks and Operating Systems
-           Enterprise Programming
-           Project
+<p>
+Manchester Metropolitan University<br>
+<strong>2019 - 2010 MSc Advanced Computer Science</strong><br>
+  Year One:<br>
+    <ul>
+        <li>High Performance Computing and Big Data</li>
+           <li>Intoduction to Data Science</li>
+           <li>Advanced Computer Networks and Operating Systems</li>
+           <li>Enterprise Programming</li>
+           <li>Project</li>
+   </ul>
+</p>
